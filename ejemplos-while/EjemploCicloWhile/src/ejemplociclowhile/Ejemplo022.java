@@ -43,5 +43,5 @@ public class Ejemplo022 {
 }
 /*
 Generar un programa que me permite ingresar un limite por teclado y presentar
-la suma de todos los numeros impares que existan entre 1 y el limte 
+la suma de todos los numeros impares que existan entre 1 y el limtee 
 */
